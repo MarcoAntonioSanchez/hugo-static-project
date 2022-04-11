@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hugo-paper.vercel.app/content/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://hugo-paper.vercel.app/content/post/post_2/</loc>
+    <lastmod>2022-04-11T16:34:29-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo-paper.vercel.app/content/post/post_1/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://hugo-paper.vercel.app/content/</loc>
+    <lastmod>2022-04-11T16:34:29-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://hugo-paper.vercel.app/</loc>
+    <lastmod>2022-04-11T16:34:29-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugo-paper.vercel.app/content/post/post_1/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
