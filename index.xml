@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Apr 2022 16:34:29 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 11 Apr 2022 16:40:18 -0500</lastBuildDate>
     
 	<atom:link href="https://hugo-paper.vercel.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post_3</title>
+      <link>https://hugo-paper.vercel.app/content/post/post_3/</link>
+      <pubDate>Mon, 11 Apr 2022 16:40:18 -0500</pubDate>
+      
+      <guid>https://hugo-paper.vercel.app/content/post/post_3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blog personal - Hugo project</title>
@@ -18,17 +27,17 @@
       <pubDate>Mon, 11 Apr 2022 16:34:29 -0500</pubDate>
       
       <guid>https://hugo-paper.vercel.app/content/post/post_2/</guid>
-      <description>Como hacer un blog con hugo y github pages </description>
+      <description>Como hacer un blog con hugo y github pages Hola este es un mensaje de prueba.</description>
     </item>
     
     <item>
-      <title>Mi primer post</title>
+      <title>Guía para el uso de emojis en Go Hugo</title>
       <link>https://hugo-paper.vercel.app/content/post/post_1/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hugo-paper.vercel.app/content/post/post_1/</guid>
-      <description>&lt;h2 id=&#34;mi-primer-post&#34;&gt;Mi primer post&lt;/h2&gt;
-&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;uso-de-emojis&#34;&gt;Uso de emojis&lt;/h2&gt;
+&lt;p&gt;Emoji puede ser habilitado en un proyecto Hugo de distintias formas.&lt;/p&gt;</description>
     </item>
     
   </channel>
